@@ -1,5 +1,5 @@
 Blog Writer (React + TypeScript)
-
+https://blogger-eight-omega.vercel.app/editor/new
 Why this project
 - Built to mirror a Lead Frontend role: clean architecture, testing, TypeScript-first, and collaboration patterns.
 - Demonstrates micro-frontend friendly structure, API boundaries, and DX/CI practices.
