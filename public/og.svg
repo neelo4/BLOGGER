@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b132b"/>
+      <stop offset="100%" stop-color="#1c2541"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g transform="translate(80, 120)">
+    <rect width="1040" height="390" rx="24" fill="#ffffff0f" stroke="#ffffff22"/>
+    <text x="40" y="120" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="96" font-weight="800" fill="#e0e6f8">Blogger</text>
+    <text x="40" y="200" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="36" fill="#94a3b8">Write, preview, and publish Markdown posts.</text>
+  </g>
+</svg>
+
